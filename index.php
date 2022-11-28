@@ -1,4 +1,5 @@
 <?php
+// Obviously all the code is not present :)
 if(!empty($_GET['try']) && ($_GET['try'] == 1)) {
 	if($_POST['password'] == "trop-facile-cherche-encore") {
 		$msg = '<font color="green">Félicitation ! Voici le code d\'accès à décoder et à donner à Mazaki pour preuve:<br /><u>65 98 117 115 101 32 112 97 115 32 99 97 32 115 101 114 97 105 116 32 116 114 111 112 32 115 105 109 112 108 101</u></font>';
