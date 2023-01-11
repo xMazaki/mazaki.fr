@@ -1,2 +1,2 @@
 # mazaki.fr
-Mazaki.fr enigma source code
+Mazaki.fr challenge source code
